@@ -23,6 +23,7 @@ public class Mirror {
 		}
 		for(int i=0;i<n;i++) {
 			System.out.print(snew[i]+" ");
+			System.out.println("hello");
 		}
 		
 	}
